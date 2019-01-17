@@ -29,6 +29,7 @@ import org.sonar.api.internal.SonarRuntimeImpl;
 import org.sonar.api.utils.Version;
 import org.sonar.plugins.pmd.profile.PmdProfileExporter;
 import org.sonar.plugins.pmd.profile.PmdProfileImporter;
+import org.sonar.plugins.pmd.rule.PmdP3cRulesDefinition;
 import org.sonar.plugins.pmd.rule.PmdRulesDefinition;
 import org.sonar.plugins.pmd.rule.PmdUnitTestsRulesDefinition;
 
@@ -47,12 +48,13 @@ class PmdPluginTest {
 
         subject.define(context);
         final List extensions = context.getExtensions();
-        assertThat(extensions).hasSize(9);
+        assertThat(extensions).hasSize(10);
         assertThat(extensions).contains(
                 PmdSensor.class,
                 PmdConfiguration.class,
                 PmdExecutor.class,
                 PmdRulesDefinition.class,
+                PmdP3cRulesDefinition.class,
                 PmdUnitTestsRulesDefinition.class,
                 PmdProfileExporter.class,
                 PmdProfileImporter.class,
