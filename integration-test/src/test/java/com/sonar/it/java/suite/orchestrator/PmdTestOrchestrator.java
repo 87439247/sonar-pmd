@@ -99,6 +99,6 @@ public class PmdTestOrchestrator {
     }
 
     private static String determineSonarqubeVersion() {
-        return System.getProperty(SONAR_VERSION_KEY, "LATEST_RELEASE[6.7]");
+        return System.getProperty(SONAR_VERSION_KEY, "LATEST_RELEASE[7.5]");
     }
 }
