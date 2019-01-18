@@ -894,12 +894,6 @@
     <status>DEPRECATED</status>
   </rule>
 
-  <rule key="AvoidCatchingThrowable">
-    <priority>CRITICAL</priority>
-    <tag>error-handling</tag>
-    <configKey>category/java/errorprone.xml/AvoidCatchingThrowable</configKey>
-    <status>DEPRECATED</status>
-  </rule>
 
   <rule key="SignatureDeclareThrowsException">
     <priority>MAJOR</priority>
