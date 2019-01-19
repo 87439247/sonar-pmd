@@ -3928,14 +3928,14 @@
 
 
   <chc>
-    <key>pmd-p3c</key>
-    <name>pmd-p3c</name>
+    <key>pmd</key>
+    <name>pmd</name>
     <chc>
-      <key>pmd-p3c</key>
-      <name>pmd-p3c</name>
+      <key>pmd</key>
+      <name>pmd</name>
       <!--AlibabaJavaComments-->
       <chc>
-        <rule-repo>pmd-p3c</rule-repo>
+        <rule-repo>pmd</rule-repo>
         <rule-key>CommentsMustBeJavadocFormatRule</rule-key>
         <prop>
           <key>remediationFunction</key>
@@ -3948,7 +3948,7 @@
         </prop>
       </chc>
       <chc>
-        <rule-repo>pmd-p3c</rule-repo>
+        <rule-repo>pmd</rule-repo>
         <rule-key>AbstractMethodOrInterfaceMethodMustUseJavadocRule</rule-key>
         <prop>
           <key>remediationFunction</key>
@@ -3961,7 +3961,7 @@
         </prop>
       </chc>
       <chc>
-        <rule-repo>pmd-p3c</rule-repo>
+        <rule-repo>pmd</rule-repo>
         <rule-key>ClassMustHaveAuthorRule</rule-key>
         <prop>
           <key>remediationFunction</key>
@@ -3974,7 +3974,7 @@
         </prop>
       </chc>
       <chc>
-        <rule-repo>pmd-p3c</rule-repo>
+        <rule-repo>pmd</rule-repo>
         <rule-key>EnumConstantsMustHaveCommentRule</rule-key>
         <prop>
           <key>remediationFunction</key>
@@ -3987,7 +3987,7 @@
         </prop>
       </chc>
       <chc>
-        <rule-repo>pmd-p3c</rule-repo>
+        <rule-repo>pmd</rule-repo>
         <rule-key>AvoidCommentBehindStatementRule</rule-key>
         <prop>
           <key>remediationFunction</key>
@@ -4000,7 +4000,7 @@
         </prop>
       </chc>
       <chc>
-        <rule-repo>pmd-p3c</rule-repo>
+        <rule-repo>pmd</rule-repo>
         <rule-key>RemoveCommentedCodeRule</rule-key>
         <prop>
           <key>remediationFunction</key>
@@ -4015,7 +4015,7 @@
 
       <!--AlibabaJavaConcurrent-->
       <chc>
-        <rule-repo>pmd-p3c</rule-repo>
+        <rule-repo>pmd</rule-repo>
         <rule-key>ThreadPoolCreationRule</rule-key>
         <prop>
           <key>remediationFunction</key>
@@ -4028,7 +4028,7 @@
         </prop>
       </chc>
       <chc>
-        <rule-repo>pmd-p3c</rule-repo>
+        <rule-repo>pmd</rule-repo>
         <rule-key>AvoidUseTimerRule</rule-key>
         <prop>
           <key>remediationFunction</key>
@@ -4041,7 +4041,7 @@
         </prop>
       </chc>
       <chc>
-        <rule-repo>pmd-p3c</rule-repo>
+        <rule-repo>pmd</rule-repo>
         <rule-key>AvoidManuallyCreateThreadRule</rule-key>
         <prop>
           <key>remediationFunction</key>
@@ -4054,7 +4054,7 @@
         </prop>
       </chc>
       <chc>
-        <rule-repo>pmd-p3c</rule-repo>
+        <rule-repo>pmd</rule-repo>
         <rule-key>ThreadShouldSetNameRule</rule-key>
         <prop>
           <key>remediationFunction</key>
@@ -4067,7 +4067,7 @@
         </prop>
       </chc>
       <chc>
-        <rule-repo>pmd-p3c</rule-repo>
+        <rule-repo>pmd</rule-repo>
         <rule-key>AvoidCallStaticSimpleDateFormatRule</rule-key>
         <prop>
           <key>remediationFunction</key>
@@ -4080,7 +4080,7 @@
         </prop>
       </chc>
       <chc>
-        <rule-repo>pmd-p3c</rule-repo>
+        <rule-repo>pmd</rule-repo>
         <rule-key>ThreadLocalShouldRemoveRule</rule-key>
         <prop>
           <key>remediationFunction</key>
@@ -4093,7 +4093,7 @@
         </prop>
       </chc>
       <chc>
-        <rule-repo>pmd-p3c</rule-repo>
+        <rule-repo>pmd</rule-repo>
         <rule-key>AvoidConcurrentCompetitionRandomRule</rule-key>
         <prop>
           <key>remediationFunction</key>
@@ -4106,7 +4106,7 @@
         </prop>
       </chc>
       <chc>
-        <rule-repo>pmd-p3c</rule-repo>
+        <rule-repo>pmd</rule-repo>
         <rule-key>CountDownShouldInFinallyRule</rule-key>
         <prop>
           <key>remediationFunction</key>
@@ -4121,7 +4121,7 @@
 
       <!--AlibabaJavaConcurrent-->
       <chc>
-        <rule-repo>pmd-p3c</rule-repo>
+        <rule-repo>pmd</rule-repo>
         <rule-key>UpperEllRule</rule-key>
         <prop>
           <key>remediationFunction</key>
@@ -4134,7 +4134,7 @@
         </prop>
       </chc>
       <chc>
-        <rule-repo>pmd-p3c</rule-repo>
+        <rule-repo>pmd</rule-repo>
         <rule-key>UndefineMagicConstantRule</rule-key>
         <prop>
           <key>remediationFunction</key>
@@ -4149,7 +4149,7 @@
 
       <!--AlibabaJavaExceptions-->
       <chc>
-        <rule-repo>pmd-p3c</rule-repo>
+        <rule-repo>pmd</rule-repo>
         <rule-key>MethodReturnWrapperTypeRule</rule-key>
         <prop>
           <key>remediationFunction</key>
@@ -4162,7 +4162,7 @@
         </prop>
       </chc>
       <chc>
-        <rule-repo>pmd-p3c</rule-repo>
+        <rule-repo>pmd</rule-repo>
         <rule-key>AvoidReturnInFinallyRule</rule-key>
         <prop>
           <key>remediationFunction</key>
@@ -4175,7 +4175,7 @@
         </prop>
       </chc>
       <chc>
-        <rule-repo>pmd-p3c</rule-repo>
+        <rule-repo>pmd</rule-repo>
         <rule-key>TransactionMustHaveRollbackRule</rule-key>
         <prop>
           <key>remediationFunction</key>
@@ -4190,7 +4190,7 @@
 
       <!--AlibabaJavaFlowControl-->
       <chc>
-        <rule-repo>pmd-p3c</rule-repo>
+        <rule-repo>pmd</rule-repo>
         <rule-key>SwitchStatementRule</rule-key>
         <prop>
           <key>remediationFunction</key>
@@ -4203,7 +4203,7 @@
         </prop>
       </chc>
       <chc>
-        <rule-repo>pmd-p3c</rule-repo>
+        <rule-repo>pmd</rule-repo>
         <rule-key>NeedBraceRule</rule-key>
         <prop>
           <key>remediationFunction</key>
@@ -4216,7 +4216,7 @@
         </prop>
       </chc>
       <chc>
-        <rule-repo>pmd-p3c</rule-repo>
+        <rule-repo>pmd</rule-repo>
         <rule-key>AvoidComplexConditionRule</rule-key>
         <prop>
           <key>remediationFunction</key>
@@ -4231,7 +4231,7 @@
 
       <!--AlibabaJavaNaming-->
       <chc>
-        <rule-repo>pmd-p3c</rule-repo>
+        <rule-repo>pmd</rule-repo>
         <rule-key>ClassNamingShouldBeCamelRule</rule-key>
         <prop>
           <key>remediationFunction</key>
@@ -4244,7 +4244,7 @@
         </prop>
       </chc>
       <chc>
-        <rule-repo>pmd-p3c</rule-repo>
+        <rule-repo>pmd</rule-repo>
         <rule-key>AbstractClassShouldStartWithAbstractNamingRule</rule-key>
         <prop>
           <key>remediationFunction</key>
@@ -4258,7 +4258,7 @@
       </chc>
 
       <chc>
-        <rule-repo>pmd-p3c</rule-repo>
+        <rule-repo>pmd</rule-repo>
         <rule-key>ExceptionClassShouldEndWithExceptionRule</rule-key>
         <prop>
           <key>remediationFunction</key>
@@ -4271,7 +4271,7 @@
         </prop>
       </chc>
       <chc>
-        <rule-repo>pmd-p3c</rule-repo>
+        <rule-repo>pmd</rule-repo>
         <rule-key>TestClassShouldEndWithTestNamingRule</rule-key>
         <prop>
           <key>remediationFunction</key>
@@ -4284,7 +4284,7 @@
         </prop>
       </chc>
       <chc>
-        <rule-repo>pmd-p3c</rule-repo>
+        <rule-repo>pmd</rule-repo>
         <rule-key>LowerCamelCaseVariableNamingRule</rule-key>
         <prop>
           <key>remediationFunction</key>
@@ -4297,7 +4297,7 @@
         </prop>
       </chc>
       <chc>
-        <rule-repo>pmd-p3c</rule-repo>
+        <rule-repo>pmd</rule-repo>
         <rule-key>AvoidStartWithDollarAndUnderLineNamingRule</rule-key>
         <prop>
           <key>remediationFunction</key>
@@ -4310,7 +4310,7 @@
         </prop>
       </chc>
       <chc>
-        <rule-repo>pmd-p3c</rule-repo>
+        <rule-repo>pmd</rule-repo>
         <rule-key>ConstantFieldShouldBeUpperCaseRule</rule-key>
         <prop>
           <key>remediationFunction</key>
@@ -4323,7 +4323,7 @@
         </prop>
       </chc>
       <chc>
-        <rule-repo>pmd-p3c</rule-repo>
+        <rule-repo>pmd</rule-repo>
         <rule-key>ServiceOrDaoClassShouldEndWithImplRule</rule-key>
         <prop>
           <key>remediationFunction</key>
@@ -4336,7 +4336,7 @@
         </prop>
       </chc>
       <chc>
-        <rule-repo>pmd-p3c</rule-repo>
+        <rule-repo>pmd</rule-repo>
         <rule-key>PackageNamingRule</rule-key>
         <prop>
           <key>remediationFunction</key>
@@ -4349,7 +4349,7 @@
         </prop>
       </chc>
       <chc>
-        <rule-repo>pmd-p3c</rule-repo>
+        <rule-repo>pmd</rule-repo>
         <rule-key>BooleanPropertyShouldNotStartWithIsRule</rule-key>
         <prop>
           <key>remediationFunction</key>
@@ -4362,7 +4362,7 @@
         </prop>
       </chc>
       <chc>
-        <rule-repo>pmd-p3c</rule-repo>
+        <rule-repo>pmd</rule-repo>
         <rule-key>ArrayNamingShouldHaveBracketRule</rule-key>
         <prop>
           <key>remediationFunction</key>
@@ -4377,7 +4377,7 @@
 
       <!--AlibabaJavaOop-->
       <chc>
-        <rule-repo>pmd-p3c</rule-repo>
+        <rule-repo>pmd</rule-repo>
         <rule-key>EqualsAvoidNullRule</rule-key>
         <prop>
           <key>remediationFunction</key>
@@ -4390,7 +4390,7 @@
         </prop>
       </chc>
       <chc>
-        <rule-repo>pmd-p3c</rule-repo>
+        <rule-repo>pmd</rule-repo>
         <rule-key>WrapperTypeEqualityRule</rule-key>
         <prop>
           <key>remediationFunction</key>
@@ -4403,7 +4403,7 @@
         </prop>
       </chc>
       <chc>
-        <rule-repo>pmd-p3c</rule-repo>
+        <rule-repo>pmd</rule-repo>
         <rule-key>WrapperTypeEqualityRule</rule-key>
         <prop>
           <key>remediationFunction</key>
@@ -4416,7 +4416,7 @@
         </prop>
       </chc>
       <chc>
-        <rule-repo>pmd-p3c</rule-repo>
+        <rule-repo>pmd</rule-repo>
         <rule-key>PojoMustUsePrimitiveFieldRule</rule-key>
         <prop>
           <key>remediationFunction</key>
@@ -4429,7 +4429,7 @@
         </prop>
       </chc>
       <chc>
-        <rule-repo>pmd-p3c</rule-repo>
+        <rule-repo>pmd</rule-repo>
         <rule-key>PojoNoDefaultValueRule</rule-key>
         <prop>
           <key>remediationFunction</key>
@@ -4442,7 +4442,7 @@
         </prop>
       </chc>
       <chc>
-        <rule-repo>pmd-p3c</rule-repo>
+        <rule-repo>pmd</rule-repo>
         <rule-key>PojoMustOverrideToStringRule</rule-key>
         <prop>
           <key>remediationFunction</key>
@@ -4455,7 +4455,7 @@
         </prop>
       </chc>
       <chc>
-        <rule-repo>pmd-p3c</rule-repo>
+        <rule-repo>pmd</rule-repo>
         <rule-key>StringConcatRule</rule-key>
         <prop>
           <key>remediationFunction</key>
@@ -4469,7 +4469,7 @@
       </chc>
       <!--AlibabaJavaOrm-->
       <chc>
-        <rule-repo>pmd-p3c</rule-repo>
+        <rule-repo>pmd</rule-repo>
         <rule-key>IbatisMethodQueryForListRule</rule-key>
         <prop>
           <key>remediationFunction</key>
@@ -4483,7 +4483,7 @@
       </chc>
       <!--AlibabaJavaOthers-->
       <chc>
-        <rule-repo>pmd-p3c</rule-repo>
+        <rule-repo>pmd</rule-repo>
         <rule-key>AvoidPatternCompileInMethodRule</rule-key>
         <prop>
           <key>remediationFunction</key>
@@ -4496,7 +4496,7 @@
         </prop>
       </chc>
       <chc>
-        <rule-repo>pmd-p3c</rule-repo>
+        <rule-repo>pmd</rule-repo>
         <rule-key>AvoidApacheBeanUtilsCopyRule</rule-key>
         <prop>
           <key>remediationFunction</key>
@@ -4509,7 +4509,7 @@
         </prop>
       </chc>
       <chc>
-        <rule-repo>pmd-p3c</rule-repo>
+        <rule-repo>pmd</rule-repo>
         <rule-key>AvoidNewDateGetTimeRule</rule-key>
         <prop>
           <key>remediationFunction</key>
@@ -4522,7 +4522,7 @@
         </prop>
       </chc>
       <chc>
-        <rule-repo>pmd-p3c</rule-repo>
+        <rule-repo>pmd</rule-repo>
         <rule-key>AvoidMissUseOfMathRandomRule</rule-key>
         <prop>
           <key>remediationFunction</key>
@@ -4537,7 +4537,7 @@
 
       <!--AlibabaJavaSets-->
       <chc>
-        <rule-repo>pmd-p3c</rule-repo>
+        <rule-repo>pmd</rule-repo>
         <rule-key>ClassCastExceptionWithToArrayRule</rule-key>
         <prop>
           <key>remediationFunction</key>
@@ -4550,7 +4550,7 @@
         </prop>
       </chc>
       <chc>
-        <rule-repo>pmd-p3c</rule-repo>
+        <rule-repo>pmd</rule-repo>
         <rule-key>UnsupportedExceptionWithModifyAsListRule</rule-key>
         <prop>
           <key>remediationFunction</key>
@@ -4563,7 +4563,7 @@
         </prop>
       </chc>
       <chc>
-        <rule-repo>pmd-p3c</rule-repo>
+        <rule-repo>pmd</rule-repo>
         <rule-key>ClassCastExceptionWithSubListToArrayListRule</rule-key>
         <prop>
           <key>remediationFunction</key>
@@ -4576,7 +4576,7 @@
         </prop>
       </chc>
       <chc>
-        <rule-repo>pmd-p3c</rule-repo>
+        <rule-repo>pmd</rule-repo>
         <rule-key>ConcurrentExceptionWithModifyOriginSubListRule</rule-key>
         <prop>
           <key>remediationFunction</key>
@@ -4589,7 +4589,7 @@
         </prop>
       </chc>
       <chc>
-        <rule-repo>pmd-p3c</rule-repo>
+        <rule-repo>pmd</rule-repo>
         <rule-key>DontModifyInForeachCircleRule</rule-key>
         <prop>
           <key>remediationFunction</key>
@@ -4602,7 +4602,7 @@
         </prop>
       </chc>
       <chc>
-        <rule-repo>pmd-p3c</rule-repo>
+        <rule-repo>pmd</rule-repo>
         <rule-key>CollectionInitShouldAssignCapacityRule</rule-key>
         <prop>
           <key>remediationFunction</key>
